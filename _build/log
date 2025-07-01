@@ -1,0 +1,16 @@
+# dune exec sudoku
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/michallendzion/.cache/dune/db
+# Workspace root: /Users/michallendzion/Desktop/Workspace/sudoku
+# Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/michallendzion/.opam/default/bin/ocamlc.opt -config > /var/folders/tw/xjpw1x_j20j67cfv1m7zdm_w0000gn/T/dune_7f18ae_output
